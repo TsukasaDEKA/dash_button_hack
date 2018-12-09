@@ -1,0 +1,2 @@
+module RefrigeratorEventHelper
+end

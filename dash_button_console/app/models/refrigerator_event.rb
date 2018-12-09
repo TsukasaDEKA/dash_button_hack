@@ -1,0 +1,2 @@
+class RefrigeratorEvent < ApplicationRecord
+end
