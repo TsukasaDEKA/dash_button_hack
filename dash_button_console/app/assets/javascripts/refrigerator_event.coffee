@@ -34,7 +34,7 @@ window.draw_graph = ->
                 display: true,
                 type: 'time',
                 time: {
-                    unit: 'day'
+                    unit: 'hour'
                 }
               }]
               yAxes: [{
